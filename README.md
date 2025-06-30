@@ -1,4 +1,6 @@
-This is my first Git Repo
+This is my first Git Repo.
+<br>
+Author-Tanishq Sahane
 
 <!--
 **TanishqSahane/Tanishqsahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
